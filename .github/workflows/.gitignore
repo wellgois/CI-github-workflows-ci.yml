@@ -1,0 +1,14 @@
+# Build / binaries
+dist/
+build/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS / IDE
+.vscode/
+.idea/
